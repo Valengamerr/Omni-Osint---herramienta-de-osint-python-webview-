@@ -1,10 +1,11 @@
 # Omni-Osint---herramienta-de-osint-python-webview-
 
 
-| TITULO1| TITULO2|
 
-| ----- | ---- |
+#objeto 
+{
+	overflow: hidden|visible|auto|scroll;
+}
 
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
 
 
