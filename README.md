@@ -2,10 +2,15 @@
 
 
 
-#objeto 
-{
-	overflow: hidden|visible|auto|scroll;
-}
+```diff
++ [📡] CONEXIÓN ESTABLECIDA
+```
+
+```yaml
+system:
+  status: "running"
+  load: "low"
+```
 
 
 
