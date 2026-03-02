@@ -32,4 +32,6 @@
 <img width="1366" height="768" alt="Captura de pantalla (75)" src="https://github.com/user-attachments/assets/a04bfbd4-8c88-46fe-9dff-5e0fcfc11d57" />
 
 <img width="1366" height="768" alt="Captura de pantalla (76)" src="https://github.com/user-attachments/assets/f80a0d37-4420-4907-aaf4-d8c0687c8a9f" />
+<img width="1366" height="768" alt="Captura de pantalla (77)" src="https://github.com/user-attachments/assets/f09db200-33e4-49fb-b6be-19c48843de87" />
+<img width="1366" height="768" alt="Captura de pantalla (78)" src="https://github.com/user-attachments/assets/e3fb198f-f928-4129-90e7-95383ba9cf12" />
 
