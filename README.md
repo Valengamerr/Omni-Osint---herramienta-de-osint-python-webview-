@@ -12,7 +12,20 @@
 > - ( 📧 )    informacion de un email (no tiene api key por lo tanto no funcionara)
 > - (  𝐆  )   google dork (**redes sociales**,**index off**,**base de datos (sql, csv)**,**documentos (pdf, excel)**,**env keys y contraseñas**)
 > - (  ♪  )   informacion de un usuario de tiktok
-> - (  📂 )   buscar en la base de datos (**base de datos vacia (pedir 1 gb) **)
+> - (  📂 )   buscar en la base de datos
+> - (  🧾 )   lenguajes : **español, ingles, ruso, arabe**
+> - (  ♻️ )   ver historial de busqueda y borrarlo
+
+
+cosas que se añadiran proximamente :
+
+- grafica de estadisticas
+- mas opciones de osint y utilidades
+- orden de botones custom
+
+
+
+
 
 
 ## instalacion  
