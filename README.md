@@ -22,7 +22,7 @@ cosas que se añadiran proximamente :
 - grafica de estadisticas
 - exif data y mas opciones de osint y utilidades...
 - orden de botones custom
-
+- data breach (base de datos de aprox 17 gb y data breach)
 
 
 
