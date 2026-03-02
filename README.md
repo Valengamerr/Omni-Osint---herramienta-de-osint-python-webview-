@@ -20,7 +20,7 @@
 cosas que se añadiran proximamente :
 
 - grafica de estadisticas
-- mas opciones de osint y utilidades
+- exif data y mas opciones de osint y utilidades...
 - orden de botones custom
 
 
