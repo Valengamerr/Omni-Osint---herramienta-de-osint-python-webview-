@@ -34,7 +34,7 @@ cosas que se añadiran proximamente :
   2. ir a carpeta         →  `cd Omni-Osint---herramienta-de-osint-python-webview-`
 - 3. descomprimir el zip
 - 4. ir a carpeta x2      →  `cd omni`
-- 4. ejecutar             →  `python main.py`
+- 5. ejecutar             →  `python main.py`
 
 ## muestras
 <img width="1366" height="768" alt="Captura de pantalla (72)" src="https://github.com/user-attachments/assets/857f2d43-d70f-4aa1-bc41-2a76031a86b1" />
