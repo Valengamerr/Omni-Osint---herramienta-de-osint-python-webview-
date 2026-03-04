@@ -25,6 +25,7 @@ detalles :
 - zoom (aleja o acerca la pantalla tanto como quieras)
 - carga (pantalla de carga para no provocar Lag)
 - geo osint (busqueda por coordenadas)
+- exif      (extrae los metadatos de una imagen, datos geograficos y tecnicos del dispositivo en el que se saco la foto)
 - reiniciar estadisticas (reinicia las estadisticas)
 - borrar archivos logs (borra todos los archivos logs)
 - grafica de estadisticas (mide tasa de exito y fallos, total de busquedas hechas, total de tiempo activo)
