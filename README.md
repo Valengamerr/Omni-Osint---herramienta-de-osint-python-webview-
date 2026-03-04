@@ -19,10 +19,18 @@
 
 cosas que se añadiran proximamente :
 
-- grafica de estadisticas
-- exif data y mas opciones de osint y utilidades...
-- orden de botones custom
-- data breach (base de datos de aprox 17 gb y data breach)
+detalles :
+- generar archivos logs (guarda archivos txt cada cierto tiempo de tus resultados de busqueda) (custom: puedes elegir cada cuanto tiempo se generan, bloquear la generacion de archivos logs, generar un archivo log cada ves que haces una busqueda )
+- salva pantallas (tras pasar 10 segundos sin actividad el software pone una pantalla esperando una accion de tu parte) (custom: puedes elegir cada cuanto tiempo sin actividad se activa el salva pantallas)
+- zoom (aleja o acerca la pantalla tanto como quieras)
+- carga (pantalla de carga para no provocar Lag)
+- geo osint (busqueda por coordenadas)
+- reiniciar estadisticas (reinicia las estadisticas)
+- borrar archivos logs (borra todos los archivos logs)
+- grafica de estadisticas (mide tasa de exito y fallos, total de busquedas hechas, total de tiempo activo)
+- filtracion de datos (busca por api de leakcheck) (puedes añadirles otras apis)
+- mejoras visuales
+
 
 
 
